@@ -182,6 +182,3 @@ TSWLatexianTemp*
 *~[0-9]*
 
 .DS_Store
-.gitignore
-README.md
-academiccv.cls
